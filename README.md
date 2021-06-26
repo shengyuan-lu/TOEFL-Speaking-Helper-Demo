@@ -8,6 +8,8 @@ Use TOEFL Speaking Helper to ace your next TOEFL speaking exam!
 
 TOEFL Speaking Helper is an integrated solution for TOEFL test takers who needs to boost their speaking section score. The most important factor in the TOEFL speaking exam is not the content, but the pace and the "feel" of the overall delivery. Because TOEFL speaking has a limited time, it's normal for test takers to rush. This APP allows test takers to pace themselves well during the practices so they can feel confident on the exam day.
 
+TOEFL Speaking Helper is proprietary software. No code will be released. This repo serves as a demo/promo. 
+
 DOWNLOAD: Use this [link](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580) to download it on Apple App Store. 
 
 ![img2](https://i.imgur.com/wVPRu5R.png)
