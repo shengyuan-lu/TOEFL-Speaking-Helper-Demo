@@ -10,7 +10,7 @@ TOEFL Speaking Helper is an integrated solution for TOEFL test takers who needs 
 
 TOEFL Speaking Helper is proprietary software. No code will be released. This repo serves as a demo/promo. 
 
-DOWNLOAD: Use this [link](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580) to download it on Apple App Store. 
+DOWNLOAD: Download it on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580).
 
 ![img2](https://i.imgur.com/wVPRu5R.png)
 ![img3](https://i.imgur.com/psmrPF9.png)
