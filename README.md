@@ -1,7 +1,5 @@
 # TOEFL-Speaking-Helper-Demo
 
-![img1](https://i.imgur.com/yyst7e4.png)
-
 Use TOEFL Speaking Helper to ace your next TOEFL speaking exam!
 TOEFL Speaking Helper is developed by an English language lover with a TOEFL score of 113 [30, 30, 27, 26]
 
@@ -11,6 +9,7 @@ TOEFL Speaking Helper is commercial software developed and owned by Shengyuan Lu
 
 Download it on [Apple App Store](https://apps.apple.com/us/app/toefl-speaking-helper/id1547083580).
 
+![img1](https://i.imgur.com/yyst7e4.png)
 ![img2](https://i.imgur.com/wVPRu5R.png)
 ![img3](https://i.imgur.com/psmrPF9.png)
 ![img4](https://i.imgur.com/qvPtXdV.png)
